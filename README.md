@@ -55,3 +55,9 @@ Technologien
 Lizenz
 
 Dieses Projekt steht unter keiner spezifischen Lizenz und darf nach Belieben genutzt und verändert werden.
+![Screenshot 2024-09-16 at 09-13-31 Cultivation Management](https://github.com/user-attachments/assets/21d60d75-f0ac-4c11-a1b3-bfa6ed8b156c)
+![Screenshot 2024-09-16 at 09-13-42 Cultivation Management](https://github.com/user-attachments/assets/c4e19fdd-b2e7-4824-9696-b3f642862425)
+![Screenshot 2024-09-16 at 09-14-14 Godzilla Cookie Auto](https://github.com/user-attachments/assets/b40e52c2-8b25-4068-b85f-1d7ecc3dd288)
+![Screenshot 2024-09-16 at 09-14-28 Godzilla Cookie Auto](https://github.com/user-attachments/assets/c681e95a-5220-4b9f-8fb6-622095e4b0f0)
+
+
